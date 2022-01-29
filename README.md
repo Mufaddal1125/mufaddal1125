@@ -11,7 +11,7 @@
 ## ⚒️ Favourite Tech Stack
 - 📱 Frontend - Flutter, React.
 - 🌐 Backend - Django, NodeJs.
-- 📚 Database - PostgreSQL.
+- 📘 Database - PostgreSQL.
 - 🖌️ Design - Figma.
 
 <br>
