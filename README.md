@@ -12,6 +12,7 @@
 - 📱 Frontend - Flutter, React.
 - 🌐 Backend - Django.
 - 📘 Database - PostgreSQL.
+- 📞 API - REST.
 - 🖌️ Design - Figma.
 
 <br>
