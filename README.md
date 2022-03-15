@@ -8,12 +8,11 @@
 - 💪 My strengths - Python, Dart, PSQL, PHP, JavaScript.
 - 😍 Always excited to contribute in Open-Source.
 
-## ⚒️ Favourite Tech Stack
+## ⚒️ Tech Stack
 - 📱 Frontend - Flutter, React.
 - 🌐 Backend - Django.
 - 📘 Database - PostgreSQL.
 - 📞 API - REST.
-- 🖌️ Design - Figma.
 
 <br>
 <div>
