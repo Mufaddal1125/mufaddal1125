@@ -23,8 +23,7 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-<div style="padding: 10px 0 0 25px">
-<a href="https://twitter.com/MufaddalPatanw5" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
+<div style="padding: 10px 0 0 25px"> 
 <a href="https://stackoverflow.com/users/15644932/mufaddal-patanwala"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
 <a href="https://www.linkedin.com/in/mufaddal-patanwala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mufaddal5211@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mufaddal5211@gmail.com-blue?style=flat-square&logo=gmail"></a>
