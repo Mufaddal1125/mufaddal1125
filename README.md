@@ -5,7 +5,7 @@
 - 💼 Working as Product Engineer at [CleverFlow](https://www.cleverflowhq.com).
 - 🎓 Part time BCA Student at Amity University.
 - 🌱 Learning and growing in Devops and UI/UX.
-- 💪 My strengths - Python, Dart, PSQL, PHP, JavaScript.
+- 💪 My strengths - Python, Dart, PostgresSQL, PHP, JavaScript.
 - 😍 Always excited to contribute in Open-Source.
 
 ## ⚒️ Tech Stack
